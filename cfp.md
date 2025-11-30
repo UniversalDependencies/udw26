@@ -1,46 +1,99 @@
----
-layout: page
-title: Call for papers
----
+**Ninth Workshop on Universal Dependencies (UDW 2026)**  
+May 2026, Palma de Mallorca, Spain (co-located with LREC 2026)
 
-# CALL FOR PAPERS
+[Universal Dependencies](https://universaldependencies.org) (UD) is a
+framework for cross-linguistically consistent treebank annotation that
+has so far been applied to over 180 languages. The framework aims to
+capture similarities as well as idiosyncrasies among typologically
+different languages (e.g., morphologically rich languages, pro-drop
+languages, and languages featuring clitic doubling). The goal in
+developing UD was not only to support comparative evaluation and
+cross-lingual learning but also to facilitate multilingual natural
+language processing, enable comparative linguistic studies, and
+provide resources for language model understanding and evaluation.
 
-Universal Dependencies (UD) is a framework for cross-linguistically consistent treebank annotation that has so far been applied to over 100 languages (<https://universaldependencies.org/>). The framework is aiming to capture similarities as well as idiosyncrasies among typologically different languages (e.g., morphologically rich languages, pro-drop languages, and languages featuring clitic doubling). The goal in developing UD was not only to support comparative evaluation and cross-lingual learning but also to facilitate multilingual natural language processing and enable comparative linguistic studies.
+The Universal Dependencies Workshop series was started to create a
+forum for discussion of the theory and practice of UD, its use in
+research and development, and its future goals and challenges. Some of
+the previous workshops have been co-located with COLING, EMNLP, and
+SyntaxFest. We invite papers on all topics relevant to UD, including
+but not limited to:
 
-The Universal Dependencies workshop series was started to create a forum for discussion of the theory and practice of UD, its use in research and development, and its future goals and challenges. The four workshops so far were held at NoDaLiDa in Gothenburg (2017), at EMNLP in Brussels (2018), at SyntaxFest in Paris (2019) and at COLING online (2020). The fifth workshop on Universal Dependencies invites papers on all topics relevant to UD, including but not limited to:
-
-- theoretical foundations and universal guidelines
-- linguistic analysis of specific languages and/or constructions
-- language typology and linguistic universals
-- treebank annotation, conversion and validation
-- word segmentation, morphological tagging and syntactic parsing
-- downstream applications in natural language processing
-- linguistic studies based on the UD data
+- Theoretical foundations and universal guidelines
+- Linguistic analysis of specific languages and/or constructions
+- Language typology and linguistic universals
+- Treebank annotation, conversion, and validation
+- Word segmentation, morphological tagging and syntactic parsing
+- Use of UD data for evaluating or understanding language models
+- Linguistic studies based on the UD data
 
 Priority will be given to papers that adopt a cross-lingual perspective.
 
-## Paper length
+# Important Dates
 
-We invite two types of submissions: long papers and short papers.
+- Paper submission deadline: February 16, 2026
+- Notification of acceptance: March 16, 2026
+- Camera-ready version due: March 30, 2026
+- Conference dates: May 11-16, 2026
 
-* Long papers may consist of up to 10 pages of content (excluding references);
-* Short papers may consist of up to 6 pages of content (excluding references).
+We invite submissions in two formats: 
 
-## Submission page
+- Regular (long) papers up to 8 pages of content
+  (excluding references and appendices). Regular papers should present
+  substantial, original, and unpublished research, including empirical
+  evaluation results where appropriate.
+- Short papers up to 4 pages of content (excluding references and
+  appendices).  Short papers may offer smaller, focused contributions,
+  such as work in progress, negative results, surveys, or opinion
+  pieces.
 
-Papers must be submitted in PDF format exclusively through the [SyntaxFest](https://syntaxfest.github.io/) joint [EasyChair](https://easychair.org/conferences/?conf=syntaxfest2021) submission page. All submissions will be done on Easychair. The link will be published here shortly.
+We also welcome non-archival papers, defined as work that has already
+been published or accepted for publication at another computational
+linguistics venue. These papers may be presented at the workshop but
+will not appear in the LREC 2026 Workshop Proceedings.
 
-On the submission page, authors submit their paper only once for the whole SyntaxFest, composed of 4 conferences, but they can uncheck conferences they do not wish their paper to be considered for. If the paper is deemed appropriate for more than one of the selected conferences, the SyntaxFest joint organization committee decides on the final placement of the paper, which implies the day of the presentation and the proceedings the paper will appear in.
+Accepted papers will be given one additional page to address reviewer
+comments.
 
-## Double-blind reviews
+# Paper Submission, Review Process and Selection Criteria
 
-Reviewing of papers will be double-blind. Therefore, the paper must not include the authors' names and affiliations. Furthermore, self-references that reveal the author's identity, e.g., "We previously showed (Zeng, 2018) ...", must be avoided. Instead, use citations such as "Zeng (2018) previously showed ...". Papers that do not conform to these requirements will be rejected without review.
+Submissions will be handled via the START Conference Manager. The
+submission link will be provided on the workshop website as soon as it
+becomes available.  Papers should describe original work; they should
+emphasise completed work rather than intended work, and should
+indicate clearly the state of completion of the reported results.
+Submissions will be judged on correctness, originality, technical
+strength, significance and relevance to the conference, and interest
+to the attendees.
 
-## Style guidelines
+All papers will undergo a double-blind peer review process, with final
+acceptance decisions made by the workshop chairs. Submissions
+that violate the requirements above will be rejected without review.
 
-All submissions should follow the one-column COLING 2020 style guidelines provided as LaTeX style files or Microsoft Word templates (templates might be subject to slight modifications for compatibility reasons). The files are [downloadable here](/resources/syntaxfest2021style.zip).   
-Any appendix or supplementary material should be submitted as part of the main pdf and they *do not count towards the page limit*.
+All submissions should follow the two-column LREC style guidelines. We
+strongly recommend the use of the LaTeX style files, OpenDocument, or
+Microsoft Word templates created for LREC:
+<https://lrec2026.info/authors-kit/>. All papers must be
+anonymous, i.e., not reveal author(s) on the title page or through
+self-references. So, e.g., “We previously showed (Smith, 2020) …”,
+should be avoided. Instead, use citations such as “Smith (2020)
+previously showed …”.
 
-## Proceedings
+# LRE-Map and Sharing Language Resources
 
-For the authors' convenience, despite the conference being held in March 2022, the Proceedings of SyntaxFest 2021 will be published in December 2021 in the [ACL Anthology](https://www.aclweb.org/anthology/).
+When submitting a paper from the START page, authors will be asked to
+provide essential information about resources (in a broad sense, i.e.
+also technologies, standards, evaluation kits, etc.) that have been
+used for the work described in the paper or are a new result of your
+research. Moreover, ELRA encourages all LREC authors to share the
+described LRs (data, tools, services, etc.) to enable their reuse and
+replicability of experiments (including evaluation ones).
+
+# Presentation Format
+
+Accepted papers will be presented as oral or poster presentations. The
+mode of presentation will be determined by the workshop chairs and
+does not reflect the quality of the submission. 
+
+Accepted papers will be published in the LREC 2026 Workshop Proceedings.
+
