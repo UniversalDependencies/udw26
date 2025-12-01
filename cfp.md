@@ -29,7 +29,7 @@ but not limited to:
 
 Priority will be given to papers that adopt a cross-lingual perspective.
 
-# Important Dates
+## Important Dates
 
 - Paper submission deadline: February 16, 2026
 - Notification of acceptance: March 16, 2026
@@ -55,7 +55,7 @@ will not appear in the LREC 2026 Workshop Proceedings.
 Accepted papers will be given one additional page to address reviewer
 comments.
 
-# Paper Submission, Review Process and Selection Criteria
+## Paper Submission, Review Process and Selection Criteria
 
 Submissions will be handled via the START Conference Manager. The
 submission link will be provided on the workshop website as soon as it
@@ -79,7 +79,7 @@ self-references. So, e.g., “We previously showed (Smith, 2020) …”,
 should be avoided. Instead, use citations such as “Smith (2020)
 previously showed …”.
 
-# LRE-Map and Sharing Language Resources
+## LRE-Map and Sharing Language Resources
 
 When submitting a paper from the START page, authors will be asked to
 provide essential information about resources (in a broad sense, i.e.
@@ -89,7 +89,7 @@ research. Moreover, ELRA encourages all LREC authors to share the
 described LRs (data, tools, services, etc.) to enable their reuse and
 replicability of experiments (including evaluation ones).
 
-# Presentation Format
+## Presentation Format
 
 Accepted papers will be presented as oral or poster presentations. The
 mode of presentation will be determined by the workshop chairs and

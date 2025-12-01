@@ -12,4 +12,4 @@ title: Organization
 
 ## Program committee
 
-<del>The program committee is joint with [SyntaxFest](https://syntaxfest.github.io/).</del>
+TBA
