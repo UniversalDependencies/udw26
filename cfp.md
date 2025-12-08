@@ -66,18 +66,20 @@ Submissions will be judged on correctness, originality, technical
 strength, significance and relevance to the conference, and interest
 to the attendees.
 
-All papers will undergo a double-blind peer review process, with final
-acceptance decisions made by the workshop chairs. Submissions
-that violate the requirements above will be rejected without review.
-
 All submissions should follow the two-column LREC style guidelines. We
 strongly recommend the use of the LaTeX style files, OpenDocument, or
 Microsoft Word templates created for LREC:
-<https://lrec2026.info/authors-kit/>. All papers must be
-anonymous, i.e., not reveal author(s) on the title page or through
-self-references. So, e.g., “We previously showed (Smith, 2020) …”,
-should be avoided. Instead, use citations such as “Smith (2020)
-previously showed …”.
+<https://lrec2026.info/authors-kit/>. Unlike LREC main conference
+submissions, UDW submissions are allowed to include appendices, and
+the UDW makes a distinction between short (up to four pages) and long
+papers (up to eight pages). All papers must be anonymous, i.e., not
+reveal author(s) on the title page or through self-references. So,
+e.g., “We previously showed (Smith, 2020) …”, should be avoided.
+Instead, use citations such as “Smith (2020) previously showed …”.
+
+All papers will undergo a double-blind peer review process, with final
+acceptance decisions made by the workshop chairs. Submissions
+that violate the requirements above will be rejected without review.
 
 ## LRE-Map and Sharing Language Resources
 
@@ -96,4 +98,3 @@ mode of presentation will be determined by the workshop chairs and
 does not reflect the quality of the submission. 
 
 Accepted papers will be published in the LREC 2026 Workshop Proceedings.
-
