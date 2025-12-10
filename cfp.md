@@ -1,5 +1,5 @@
 **Ninth Workshop on Universal Dependencies (UDW 2026)**  
-May 2026, Palma de Mallorca, Spain (co-located with LREC 2026)
+16 May 2026, Palma de Mallorca, Spain (co-located with LREC 2026)
 
 [Universal Dependencies](https://universaldependencies.org) (UD) is a
 framework for cross-linguistically consistent treebank annotation that
@@ -34,7 +34,7 @@ Priority will be given to papers that adopt a cross-lingual perspective.
 - Paper submission deadline: February 16, 2026
 - Notification of acceptance: March 16, 2026
 - Camera-ready version due: March 30, 2026
-- Conference dates: May 11-16, 2026
+- Workshop date: May 16, 2026
 
 We invite submissions in two formats: 
 
@@ -96,5 +96,9 @@ replicability of experiments (including evaluation ones).
 Accepted papers will be presented as oral or poster presentations. The
 mode of presentation will be determined by the workshop chairs and
 does not reflect the quality of the submission. 
+
+UDW 2026 will primarily be an in-person event, but online participation
+will also be possible for the participants who cannot travel to the
+conference.
 
 Accepted papers will be published in the LREC 2026 Workshop Proceedings.
