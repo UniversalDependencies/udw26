@@ -5,9 +5,9 @@ title: UDW 2026
 
 # Universal Dependencies Workshop 2026 (UDW 2026)
 
-### [LREC 2026](https://lrec2026.info/), Palma (Mallorca), Spain, 11 to 16 May 2026.
+### [LREC 2026](https://lrec2026.info/), Palma (Mallorca), Spain, 16 May 2026.
 
-UDW 2026 will be collocated with LREC 2026 in Palma, during the week of May 11–16, 2026.
+UDW 2026 will be collocated with LREC 2026 in Palma, on May 16, 2026.
 
 [Universal Dependencies](http://universaldependencies.org/) (UD) is a
 framework for cross-linguistically consistent treebank annotation that
