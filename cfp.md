@@ -29,6 +29,11 @@ but not limited to:
 
 Priority will be given to papers that adopt a cross-lingual perspective.
 
+## Invited speakers
+
+- [Marie-Catherine de Marneffe](https://cental.uclouvain.be/team/mcdm/)
+- [Stephen Mayhew](https://mayhewsw.github.io/)
+
 ## Important Dates
 
 - Paper submission deadline: February 16, 2026

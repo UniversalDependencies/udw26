@@ -21,7 +21,10 @@ support comparative evaluation and cross-lingual learning but also to
 facilitate multilingual natural language processing and enable
 comparative linguistic studies.
 
-## Invited talk
+## Invited speakers
+
+- [Marie-Catherine de Marneffe](https://cental.uclouvain.be/team/mcdm/)
+- [Stephen Mayhew](https://mayhewsw.github.io/)
 
 <!-- Invited talk by [Emily Pitler](http://www.emilypitler.com/), Google: [Incorporating Compositionality and Morphology into End-to-End Models](/udw21/invited-talk) -->
 
