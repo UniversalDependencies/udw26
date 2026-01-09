@@ -62,14 +62,16 @@ comments.
 
 ## Paper Submission, Review Process and Selection Criteria
 
-Submissions will be handled via the START Conference Manager. The
-submission link will be provided on the workshop website as soon as it
-becomes available.  Papers should describe original work; they should
-emphasise completed work rather than intended work, and should
-indicate clearly the state of completion of the reported results.
-Submissions will be judged on correctness, originality, technical
-strength, significance and relevance to the conference, and interest
-to the attendees.
+
+Papers should be submitted through Softconf/START using the following link:
+
+- <https://softconf.com/lrec2026/UDW2026/>
+
+Papers should describe original work; they should emphasise completed
+work rather than intended work, and should indicate clearly the state
+of completion of the reported results.  Submissions will be judged on
+correctness, originality, technical strength, significance and
+relevance to the conference, and interest to the attendees.
 
 All submissions should follow the two-column LREC style guidelines. We
 strongly recommend the use of the LaTeX style files, OpenDocument, or
