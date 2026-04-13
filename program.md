@@ -20,7 +20,7 @@ title: Program
 - 10:00–10:15 — **Probing the Dynamics of Syntactic Ability Acquisition Throughout LLM Pretraining**  
   Hiroshi Matsuda and Masayuki Asahara
 
-- 10:15–10:30 — **Universal Dependencies as a Tool for Cultural Comparison: Which English varieties are "hot", and which are "cool"?**  
+- 10:15–10:30 — **Which languages are "hot", and which are "cool"? Using Universal Dependencies for large-scale comparisons of subject expression**  
   Natalia Levshina
 
 10:30–11:00 · Coffee break
