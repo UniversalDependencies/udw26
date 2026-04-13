@@ -5,25 +5,25 @@ title: Program
 
 ## Programme
 
-**16 May 2026 · All times are local (CEST, UTC+2)**  
+16 May 2026 · All times are local (CEST, UTC+2)  
 [Presenter instructions ↓](#presenter-instructions)
 
 ---
 
 ### Session 1 (oral) — 09:00–10:30
 
-- 09:00–09:05 — **Welcome**
+- 09:00–09:10 — Welcome
 
-- 09:05–09:55 — **Keynote 1: Marie-Catherine de Marneffe**  
-  Diversity in NLP: why, what, where and how
+- 09:10–10:00 — **KEYNOTE: Marie-Catherine de Marneffe**, CENTAL – UCLouvain / FNRS  
+  _Diversity in NLP: why, what, where and how_
 
-- 09:55–10:15 — **Probing the Dynamics of Syntactic Ability Acquisition Throughout LLM Pretraining**  
+- 10:00–10:15 — **Probing the Dynamics of Syntactic Ability Acquisition Throughout LLM Pretraining**  
   Hiroshi Matsuda and Masayuki Asahara
 
 - 10:15–10:30 — **Universal Dependencies as a Tool for Cultural Comparison: Which English varieties are "hot", and which are "cool"?**  
   Natalia Levshina
 
-**10:30–11:00 · Coffee break**
+10:30–11:00 · Coffee break
 
 ---
 
@@ -75,14 +75,14 @@ title: Program
 - 12:40–13:00 — **A Proposal for a More Universal Annotation of Relative Clauses in Universal Dependencies**  
   Sylvain Kahane and Santiago Herrera
 
-**13:00–14:00 · Lunch**
+13:00–14:00 · Lunch
 
 ---
 
 ### Session 4 (oral) — 14:00–16:00
 
-- 14:00–14:50 — **Keynote 2: Stephen Mayhew**  
-  Universal NER: Standing on the Shoulders of Giants
+- 14:00–14:50 — **KEYNOTE: Stephen Mayhew**, Duolingo  
+  _Universal NER: Standing on the Shoulders of Giants_
 
 - 14:50–15:10 — **MesoTree: Annotated Linguistic Resources for Quantitative Comparative Linguistic Analysis and NLP in Mesoamerica**  
   Robert Pugh, Francis Tyers and Robert Henderson
@@ -96,7 +96,7 @@ title: Program
 - 15:45–16:00 — **Bringing Information Structure to Universal Dependencies**  
   Andrew Dyer, Nikolett Mus, Claudia Corbetta and Sylvain Kahane
 
-**16:00–16:30 · Coffee break**
+16:00–16:30 · Coffee break
 
 ---
 
@@ -140,9 +140,7 @@ title: Program
 
 ---
 
-### 17:30–18:00
-
-- **Community discussion and closing**
+### 17:30–18:00 — Community discussion and closing
 
 ---
 
