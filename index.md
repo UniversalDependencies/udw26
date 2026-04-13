@@ -23,8 +23,8 @@ comparative linguistic studies.
 
 ## Invited speakers
 
-- [Marie-Catherine de Marneffe](https://cental.uclouvain.be/team/mcdm/)
-- [Stephen Mayhew](https://mayhewsw.github.io/)
+- [Marie-Catherine de Marneffe](https://cental.uclouvain.be/team/mcdm/), CENTAL - UCLouvain / FNRS
+- [Stephen Mayhew](https://mayhewsw.github.io/), Duolingo
 
 <!-- Invited talk by [Emily Pitler](http://www.emilypitler.com/), Google: [Incorporating Compositionality and Morphology into End-to-End Models](/udw21/invited-talk) -->
 
