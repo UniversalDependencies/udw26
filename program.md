@@ -130,7 +130,7 @@ title: Program
   Johannes Heinecke
 
 - **Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology**  
-  Andrei Movsesian and Daniil Timcenko
+  Andrei Movsesian and Daniil Timchenko
 
 - **Exploiting Parallel Aligned Treebanks**  
   Maarten Janssen
