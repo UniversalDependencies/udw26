@@ -69,7 +69,7 @@ title: Program
 - 12:00–12:20 — **The Grammar Does the Work: Functional vs. Lexical Dependency Length Minimization Across the UD Languages**  
   Kim Gerdes
 
-- 12:20–12:40 — **Revisiting Greenberg's Universal 45 in Universal Dependencies: Gender Distinctions and Annotation Challenges**  
+- 12:20–12:40 — **Greenberg’s Universal 45 in Universal Dependencies: Gender Distinctions and Annotation Challenges**  
   Antoni Brosa-Rodriguez and M. Dolores Jimenez Lopez
 
 - 12:40–13:00 — **A Proposal for a More Universal Annotation of Relative Clauses in Universal Dependencies**  
