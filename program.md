@@ -5,7 +5,7 @@ title: Program
 
 ## Programme
 
-16 May 2026 · All times are local (CEST, UTC+2)  
+16 May 2026 Room: Elvissa 2 · All times are local (CEST, UTC+2)  
 [Please find the PRESENTER INSTRUCTIONS below ↓](#presenter-instructions)
 
 ---
@@ -149,6 +149,6 @@ title: Program
 - **Format:** Papers are presented as oral or poster; this does not reflect quality but PC recommendations on the optimal method of presentation given the content. All non-archival papers are presented as posters.
 - **Oral presentations:** Each paper is allocated either **15 minutes** (12 minutes presentation + 3 minutes Q&A) or **20 minutes** (15 minutes presentation + 5 minutes Q&A), as indicated in the programme. Please respect timing.
 - **Technical setup:** A laptop will be provided. Bring your slides on a USB stick (PDF, PPTX, or format compatible with the Chrome web browser) and upload them during the break before your session.
-- **Posters:** A0 format, vertical (portrait) orientation. Please mount your poster during the coffee break before your session using the provided materials, and remove it immediately after the session ends. The exact location of the poster area (either Area 1 or Area 2) is yet to be confirmed.
+- **Posters:** A0 format, vertical (portrait) orientation. Please mount your poster during the coffee break before your session using the provided materials, and remove it immediately after the session ends. The exact location of the poster area is yet to be confirmed.
 - **Remote presentations:** As per LREC policy, presentations are in person. Remote is only possible in exceptional cases and for oral presentations.
 
