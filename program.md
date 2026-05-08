@@ -42,6 +42,9 @@ Saturday, 16 May 2026  · Room **Eivissa 2** · All times are local (CEST, UTC+2
 - **Verifying the Menzerath-Altmann law in the verbal domain in 180 languages**  
   Pegah Faghiri, Kim Gerdes and Sylvain Kahane
 
+- **A Comparative Linguistic Analysis of Ottoman and Modern Turkish through UD Treebanks**
+  Enes Yılandiloğlu
+
 - **Comparing Dependency Distances of Esperanto and Other Languages in a Multi-Lingual Parallel Corpus**  
   Masanori Oya
 
@@ -147,7 +150,6 @@ Saturday, 16 May 2026  · Room **Eivissa 2** · All times are local (CEST, UTC+2
 ### Session 6 — 17:30–18:00
 
 - 17:30–17:40 — **Remote poster boosters**
-  - _A Comparative Linguistic Analysis of Ottoman and Modern Turkish through UD Treebanks_ - Enes Yılandiloğlu
   - _Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology_ - Andrei Movsesian and Daniil Timchenko
 
   
