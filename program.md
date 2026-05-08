@@ -150,7 +150,7 @@ Saturday, 16 May 2026  · Room **Eivissa 2** · All times are local (CEST, UTC+2
   - _A Comparative Linguistic Analysis of Ottoman and Modern Turkish through UD Treebanks_ - Enes Yılandiloğlu
   - _Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology_ - Andrei Movsesian and Daniil Timchenko
 
-
+  
 - 17:40–18:00 — **Community discussion and closing**  
 
 
