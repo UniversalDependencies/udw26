@@ -5,12 +5,14 @@ title: Program
 
 ## Programme
 
-16 May 2026 Room: Elvissa 2 · All times are local (CEST, UTC+2)  
-[Please find the PRESENTER INSTRUCTIONS below ↓](#presenter-instructions)
+Saturday, 16 May 2026  · Room **Eivissa 2** · All times are local (CEST, UTC+2)  
+
+[INSTRUCTIONS FOR PRESENTERS are given below ↓](#presenter-instructions)
 
 ---
 
 ### Session 1 (oral) — 09:00–10:30
+#### Chair: Joakim Nivre
 
 - 09:00–09:10 — Welcome
 
@@ -28,6 +30,8 @@ title: Program
 ---
 
 ### Session 2 (poster) — 11:00–12:00
+
+#### Chair: Sara Stymne
 
 - **Clefting and beyond in Tigrinya**  
   Nazareth Amlesom Kifle and Michael Gasser
@@ -47,9 +51,6 @@ title: Program
 - **Towards a Universal Dependency Corpus for Old Saxon (Old Low German)**  
   Christian Chiarcos and Janine Siewert
 
-- **A Comparative Linguistic Analysis of Ottoman and Modern Turkish through UD Treebanks**  
-  Enes Yılandiloğlu
-
 - **Word segmentation for UD: a comparison of isiZulu and Sepedi**  
   Laurette Marais and Laurette Pretorius
 
@@ -66,6 +67,8 @@ title: Program
 
 ### Session 3 (oral) — 12:00–13:00
 
+#### Chair: Daniel Zeman
+
 - 12:00–12:20 — **The Grammar Does the Work: Functional vs. Lexical Dependency Length Minimization Across the UD Languages**  
   Kim Gerdes
 
@@ -80,6 +83,8 @@ title: Program
 ---
 
 ### Session 4 (oral) — 14:00–16:00
+
+#### Chair: Sylvain Kahane
 
 - 14:00–14:50 — **KEYNOTE: Stephen Mayhew**, Duolingo  
   _Universal NER: Standing on the Shoulders of Giants_
@@ -101,6 +106,8 @@ title: Program
 ---
 
 ### Session 5 (poster) — 16:30–17:30
+
+#### Chair: Leonie Weißweiler
 
 - **DELTA: Measuring Linguistic Diversity in Dependency-Parsed Corpora**  
   Louis Estève and Kaja Dobrovoljc
@@ -129,9 +136,6 @@ title: Program
 - **Syntax is the key to semantics: Combining Universal Dependencies and Abstract Meaning Representation**  
   Johannes Heinecke
 
-- **Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology**  
-  Andrei Movsesian and Daniil Timchenko
-
 - **Exploiting Parallel Aligned Treebanks**  
   Maarten Janssen
 
@@ -140,7 +144,19 @@ title: Program
 
 ---
 
-### 17:30–18:00 — Community discussion and closing
+### Session 6 — 17:30–18:00
+
+- 17:30–17:40 — **Remote poster presentations**
+
+  - **A Comparative Linguistic Analysis of Ottoman and Modern Turkish through UD Treebanks**  
+    Enes Yılandiloğlu
+    
+  - **Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology**  
+    Andrei Movsesian and Daniil Timchenko
+
+
+- 17:40–18:00 — **Community discussion and closing**  
+
 
 ---
 
