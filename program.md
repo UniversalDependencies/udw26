@@ -16,7 +16,7 @@ Saturday, 16 May 2026  · Room **Eivissa 2** · All times are local (CEST, UTC+2
 
 - 09:00–09:10 — Welcome
 
-- 09:10–10:00 — **KEYNOTE: Marie-Catherine de Marneffe**, CENTAL – UCLouvain / FNRS  
+- 09:10–10:00 — **[KEYNOTE: Marie-Catherine de Marneffe](https://universaldependencies.org/udw26/invited-talk.html)**, CENTAL – UCLouvain / FNRS  
   _Diversity in NLP: why, what, where and how_
 
 - 10:00–10:15 — **Probing the Dynamics of Syntactic Ability Acquisition Throughout LLM Pretraining**  
@@ -86,7 +86,7 @@ Saturday, 16 May 2026  · Room **Eivissa 2** · All times are local (CEST, UTC+2
 
 #### Chair: Sylvain Kahane
 
-- 14:00–14:50 — **KEYNOTE: Stephen Mayhew**, Duolingo  
+- 14:00–14:50 — **[KEYNOTE: Stephen Mayhew](https://universaldependencies.org/udw26/invited-talk.html)**, Duolingo  
   _Universal NER: Standing on the Shoulders of Giants_
 
 - 14:50–15:10 — **MesoTree: Annotated Linguistic Resources for Quantitative Comparative Linguistic Analysis and NLP in Mesoamerica**  
@@ -146,15 +146,10 @@ Saturday, 16 May 2026  · Room **Eivissa 2** · All times are local (CEST, UTC+2
 
 ### Session 6 — 17:30–18:00
 
-- 17:30–17:40 — **Remote poster presentations**
-
-  - **A Comparative Linguistic Analysis of Ottoman and Modern Turkish through UD Treebanks**  
-    Enes Yılandiloğlu
+- 17:30–17:40 — **Remote poster boosters**
+  - _A Comparative Linguistic Analysis of Ottoman and Modern Turkish through UD Treebanks_, Enes Yılandiloğlu
+  - _Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology_, Andrei Movsesian and Daniil Timchenko
     
-  - **Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology**  
-    Andrei Movsesian and Daniil Timchenko
-
-
 - 17:40–18:00 — **Community discussion and closing**  
 
 
