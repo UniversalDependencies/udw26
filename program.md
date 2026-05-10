@@ -5,7 +5,7 @@ title: Program
 
 ## Programme
 
-Saturday, 16 May 2026  · Room **Eivissa 2** · All times are local (CEST, UTC+2)  
+Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for posters · All times are local (CEST, UTC+2)  
 
 [INSTRUCTIONS FOR PRESENTERS are given below ↓](#presenter-instructions)
 
@@ -149,11 +149,11 @@ Saturday, 16 May 2026  · Room **Eivissa 2** · All times are local (CEST, UTC+2
 
 ### Session 6 — 17:30–18:00
 
-- 17:30–17:40 — **Remote poster boosters**
+- 17:30–17:35 — **Remote poster boosters**
   - _Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology_ - Andrei Movsesian and Daniil Timchenko
 
   
-- 17:40–18:00 — **Community discussion and closing**  
+- 17:35–18:00 — **Community discussion and closing**  
 
 
 ---
