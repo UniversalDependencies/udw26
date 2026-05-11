@@ -19,10 +19,10 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 - 09:10–10:00 — **[KEYNOTE: Marie-Catherine de Marneffe](https://universaldependencies.org/udw26/invited-talk.html)**, CENTAL – UCLouvain / FNRS  
   _Diversity in NLP: why, what, where and how_
 
-- 10:00–10:15 — [**Probing the Dynamics of Syntactic Ability Acquisition Throughout LLM Pretraining**](papers/39.pdf)  
+- 10:00–10:15 — **[Probing the Dynamics of Syntactic Ability Acquisition Throughout LLM Pretraining](papers/39_Paper.pdf)**  
   Hiroshi Matsuda and Masayuki Asahara
 
-- 10:15–10:30 — [**Which languages are "hot", and which are "cool"? Using Universal Dependencies for large-scale comparisons of subject expression**](papers/17.pdf)  
+- 10:15–10:30 — **[Which languages are "hot", and which are "cool"? Using Universal Dependencies for large-scale comparisons of subject expression](papers/17_Paper.pdf)**  
   Natalia Levshina
 
 10:30–11:00 · Coffee break
@@ -33,34 +33,34 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 
 #### Chair: Sara Stymne
 
-- [**Clefting and beyond in Tigrinya**](papers/19.pdf)  
+- **[Clefting and beyond in Tigrinya](papers/19_Paper.pdf)**  
   Nazareth Amlesom Kifle and Michael Gasser
 
-- [**Coconstructions in spoken data: UD annotation guidelines and first results**](papers/26.pdf)  
+- **[Coconstructions in spoken data: UD annotation guidelines and first results](papers/26_Paper.pdf)**  
   Ludovica Pannitto, Kaja Dobrovoljc, Sylvain Kahane, Elena Battaglia, Bruno Guillaume, Caterina Mauri and Eleonora Zucchini
 
-- [**Verifying the Menzerath-Altmann law in the verbal domain in 180 languages**](papers/32.pdf)  
+- **[Verifying the Menzerath-Altmann law in the verbal domain in 180 languages](papers/32_Paper.pdf)**  
   Pegah Faghiri, Kim Gerdes and Sylvain Kahane
 
-- [**A Comparative Linguistic Analysis of Ottoman and Modern Turkish through UD Treebanks**](papers/2.pdf)  
+- **[A Comparative Linguistic Analysis of Ottoman and Modern Turkish through UD Treebanks](papers/2_Paper.pdf)**  
   Enes Yılandiloğlu
 
-- [**Negation of Turkic non-verbal clauses: analysis and Universal Dependencies implementation**](papers/35.pdf)  
+- **[Negation of Turkic non-verbal clauses: analysis and Universal Dependencies implementation](papers/35_Paper.pdf)**  
   Furkan Akkurt, Bermet Chontaeva, Çağrı Çöltekin, Soudabeh Eslami, Sardana Ivanova, Nikolett Mus and Jonathan N. Washington
 
-- [**Towards a Universal Dependency Corpus for Old Saxon (Old Low German)**](papers/29.pdf)  
+- **[Towards a Universal Dependency Corpus for Old Saxon (Old Low German)](papers/29_Paper.pdf)**  
   Christian Chiarcos and Janine Siewert
 
-- [**Word segmentation for UD: a comparison of isiZulu and Sepedi**](papers/24.pdf)  
+- **[Word segmentation for UD: a comparison of isiZulu and Sepedi](papers/24_Paper.pdf)**  
   Laurette Marais and Laurette Pretorius
 
-- [**CoBra: A Compound Branching Resource for Nominal Triconstituent Compounds in English and German**](papers/15.pdf)  
+- **[CoBra: A Compound Branching Resource for Nominal Triconstituent Compounds in English and German](papers/15_Paper.pdf)**  
   Carmen Schacht, Isabell Landwehr, Diana Davidson, Konrad Grabowski, Magdalena Meiser and Sophia Wiedmann
 
-- [**SE Constructions Revisited: Focus on Treebanks for Romance Languages**](papers/33.pdf)  
+- **[SE Constructions Revisited: Focus on Treebanks for Romance Languages](papers/33_Paper.pdf)**  
   Verginica Barbu Mititelu, Elena Irimia, Adriana S. Pagano, Roxana Ciolaneanu and Ioana Buhnila
 
-- [**Say "No" to Missing Polarity: A Negation Enrichment of Porttinari UD Treebank**](papers/31.pdf)  
+- **[Say "No" to Missing Polarity: A Negation Enrichment of Porttinari UD Treebank](papers/31_Paper.pdf)**  
   Isaac Souza de Miranda Junior, Oto Araújo Vale and Marie-Catherine de Marneffe
 
 ---
@@ -69,13 +69,13 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 
 #### Chair: Daniel Zeman
 
-- 12:00–12:20 — [**The Grammar Does the Work: Functional vs. Lexical Dependency Length Minimization Across the UD Languages**](papers/37.pdf)  
+- 12:00–12:20 — **[The Grammar Does the Work: Functional vs. Lexical Dependency Length Minimization Across the UD Languages](papers/37_Paper.pdf)**  
   Kim Gerdes
 
-- 12:20–12:40 — [**Greenberg’s Universal 45 in Universal Dependencies: Gender Distinctions and Annotation Challenges**](papers/16.pdf)  
+- 12:20–12:40 — **[Greenberg’s Universal 45 in Universal Dependencies: Gender Distinctions and Annotation Challenges](papers/16_Paper.pdf)**  
   Antoni Brosa-Rodriguez and M. Dolores Jimenez Lopez
 
-- 12:40–13:00 — [**A Proposal for a More Universal Annotation of Relative Clauses in Universal Dependencies**](papers/11.pdf)  
+- 12:40–13:00 — **[A Proposal for a More Universal Annotation of Relative Clauses in Universal Dependencies](papers/11_Paper.pdf)**  
   Sylvain Kahane and Santiago Herrera
 
 13:00–14:00 · Lunch
@@ -89,16 +89,16 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 - 14:00–14:50 — **[KEYNOTE: Stephen Mayhew](https://universaldependencies.org/udw26/invited-talk.html)**, Duolingo  
   _Universal NER: Standing on the Shoulders of Giants_
 
-- 14:50–15:10 — [**MesoTree: Annotated Linguistic Resources for Quantitative Comparative Linguistic Analysis and NLP in Mesoamerica**](papers/22.pdf)  
+- 14:50–15:10 — **[MesoTree: Annotated Linguistic Resources for Quantitative Comparative Linguistic Analysis and NLP in Mesoamerica](papers/22_Paper.pdf)**  
   Robert Pugh, Francis Tyers and Robert Henderson
 
-- 15:10–15:30 — [**Nonprototypical Predication and Nonpredicational Clauses in Universal Dependencies**](papers/1.pdf)  
+- 15:10–15:30 — **[Nonprototypical Predication and Nonpredicational Clauses in Universal Dependencies](papers/1_Paper.pdf)**  
   Joakim Nivre, William Croft and Andre Coneglian
 
-- 15:30–15:45 — [**Complex Predicates in Universal Dependencies**](papers/3.pdf)  
+- 15:30–15:45 — **[Complex Predicates in Universal Dependencies](papers/3_Paper.pdf)**  
   Andre Coneglian, Joakim Nivre and William Croft
 
-- 15:45–16:00 — [**Bringing Information Structure to Universal Dependencies**](papers/27.pdf)  
+- 15:45–16:00 — **[Bringing Information Structure to Universal Dependencies](papers/27_Paper.pdf)**  
   Andrew Dyer, Nikolett Mus, Claudia Corbetta and Sylvain Kahane
 
 16:00–16:30 · Coffee break
@@ -109,37 +109,37 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 
 #### Chair: Leonie Weißweiler
 
-- [**DELTA: Measuring Linguistic Diversity in Dependency-Parsed Corpora**](https://aclanthology.org/2026.eacl-demo.6.pdf)  
+- **[DELTA: Measuring Linguistic Diversity in Dependency-Parsed Corpora](https://aclanthology.org/2026.eacl-demo.6.pdf)**  
   Louis Estève and Kaja Dobrovoljc
 
-- [**Modelling the Morphology of Verbal Paradigms: A Case Study in the Tokenization of Turkish and Hebrew**](https://aclanthology.org/2026.sigturk-1.8.pdf)  
+- **[Modelling the Morphology of Verbal Paradigms: A Case Study in the Tokenization of Turkish and Hebrew](https://aclanthology.org/2026.sigturk-1.8.pdf)**  
   Giuseppe Samo and Paola Merlo
 
-- [**Introducing Universal Dependencies for Sardinian: the UD ContSar Treebank**](papers/34.pdf)  
+- **[Introducing Universal Dependencies for Sardinian: the UD ContSar Treebank](papers/34_Paper.pdf)**  
   Nicoletta Puddu, Manuela Sanguinetti and Luigi Talamo
 
-- [**Exploring language relations through syntactic distances and geographic proximity**](https://link.springer.com/article/10.1140/epjds/s13688-024-00498-7)
+- **[Exploring language relations through syntactic distances and geographic proximity](https://link.springer.com/article/10.1140/epjds/s13688-024-00498-7)**  
   Juan De Gregorio, Raul Toral and David Sanchez
 
-- [**Cross-Dialectal Transfer for Low-Resource Arabic: The Tunisian Arabic Dependency Treebank**](papers/40.pdf)  
+- **[Cross-Dialectal Transfer for Low-Resource Arabic: The Tunisian Arabic Dependency Treebank](papers/40_Paper.pdf)**  
   Amal Aissaoui
 
-- [**From Treebank Metadata to Sentence-Level Genre in Universal Dependencies: A Reproducible, Versioned Resource**](papers/41.pdf)  
+- **[From Treebank Metadata to Sentence-Level Genre in Universal Dependencies: A Reproducible, Versioned Resource](papers/41_Paper.pdf)**  
   Egon Stemle
 
-- [**Towards Universal Dependencies for L2 Learners of Modern Greek: Annotation and Challenges**](papers/14.pdf)  
+- **[Towards Universal Dependencies for L2 Learners of Modern Greek: Annotation and Challenges](papers/14_Paper.pdf)**  
   Christina Klironomou, Thelka Pasparaki, Arianna Masciolini, Alexandros Tantos, Despoina Ourania Touriki, Konstantinos Tsiotskas and Eleni Tsourilla
 
-- [**Gathering valency frames for annotation and batch corrections**](papers/20.pdf)  
+- **[Gathering valency frames for annotation and batch corrections](papers/20_Paper.pdf)**  
   Mathilde Regnault
 
-- [**Syntax is the key to semantics: Combining Universal Dependencies and Abstract Meaning Representation**](papers/7.pdf)  
+- **[Syntax is the key to semantics: Combining Universal Dependencies and Abstract Meaning Representation](papers/7_Paper.pdf)**  
   Johannes Heinecke
 
-- [**Exploiting Parallel Aligned Treebanks**](papers/12.pdf)  
+- **[Exploiting Parallel Aligned Treebanks](papers/12_Paper.pdf)**  
   Maarten Janssen
 
-- [**Speech Act Constructions in Universal Dependencies**](papers/4.pdf)  
+- **[Speech Act Constructions in Universal Dependencies](papers/4_Paper.pdf)**  
   Joakim Nivre, William Croft and Andre Coneglian
 
 ---
@@ -147,8 +147,8 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 ### Session 6 — 17:30–18:00
 
 - 17:30–17:35 — **Remote poster boosters**
-  - [_Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology_](papers/21) - Andrei Movsesian and Daniil Timchenk.pdfo
-  - [_Comparing Dependency Distances of Esperanto and Other Languages in a Multi-Lingual Parallel Corpus_](papers/13.pdf) - Masanori Oya
+  - _[Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology](papers/21_Paper.pdf)_ - Andrei Movsesian and Daniil Timchenk.pdfo
+  - _[Comparing Dependency Distances of Esperanto and Other Languages in a Multi-Lingual Parallel Corpus](papers/13_Paper.pdf)_ - Masanori Oya
 
   
 - 17:35–18:00 — **Community discussion and closing**  
