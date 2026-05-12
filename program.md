@@ -51,9 +51,6 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 - [Towards a Universal Dependency Corpus for Old Saxon (Old Low German)](papers/29_Paper.pdf)  
   Christian Chiarcos and Janine Siewert
 
-- [Word segmentation for UD: a comparison of isiZulu and Sepedi](papers/24_Paper.pdf)  
-  Laurette Marais and Laurette Pretorius
-
 - [CoBra: A Compound Branching Resource for Nominal Triconstituent Compounds in English and German](papers/15_Paper.pdf)  
   Carmen Schacht, Isabell Landwehr, Diana Davidson, Konrad Grabowski, Magdalena Meiser and Sophia Wiedmann
 
@@ -62,6 +59,9 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 
 - [Say "No" to Missing Polarity: A Negation Enrichment of Porttinari UD Treebank](papers/31_Paper.pdf)  
   Isaac Souza de Miranda Junior, Oto Araújo Vale and Marie-Catherine de Marneffe
+
+- [DELTA: Measuring Linguistic Diversity in Dependency-Parsed Corpora](https://aclanthology.org/2026.eacl-demo.6.pdf)  
+  Louis Estève and Kaja Dobrovoljc
 
 ---
 
@@ -109,9 +109,6 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 
 #### Chair: Leonie Weissweiler
 
-- [DELTA: Measuring Linguistic Diversity in Dependency-Parsed Corpora](https://aclanthology.org/2026.eacl-demo.6.pdf)  
-  Louis Estève and Kaja Dobrovoljc
-
 - [Modelling the Morphology of Verbal Paradigms: A Case Study in the Tokenization of Turkish and Hebrew](https://aclanthology.org/2026.sigturk-1.8.pdf)  
   Giuseppe Samo and Paola Merlo
 
@@ -146,12 +143,13 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 
 ### Session 6 — 17:30–18:00
 
-- 17:30–17:35 — **Remote poster boosters**
+- 17:30–17:40 — **Remote poster boosters**
   - _[Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology](papers/21_Paper.pdf)_ - Andrei Movsesian and Daniil Timchenko
   - _[Comparing Dependency Distances of Esperanto and Other Languages in a Multi-Lingual Parallel Corpus](papers/13_Paper.pdf)_ - Masanori Oya
+  - _[Word segmentation for UD: a comparison of isiZulu and Sepedi](papers/24_Paper.pdf)_ - Laurette Marais and Laurette Pretorius
 
   
-- 17:35–18:00 — **Community discussion and closing**  
+- 17:40–18:00 — **Community discussion and closing**  
 
 
 ---
