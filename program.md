@@ -107,7 +107,7 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 
 ### Session 5 (poster) — 16:30–17:30
 
-#### Chair: Leonie Weißweiler
+#### Chair: Leonie Weissweiler
 
 - [DELTA: Measuring Linguistic Diversity in Dependency-Parsed Corpora](https://aclanthology.org/2026.eacl-demo.6.pdf)  
   Louis Estève and Kaja Dobrovoljc
@@ -147,7 +147,7 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 ### Session 6 — 17:30–18:00
 
 - 17:30–17:35 — **Remote poster boosters**
-  - _[Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology](papers/21_Paper.pdf)_ - Andrei Movsesian and Daniil Timchenk.pdfo
+  - _[Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology](papers/21_Paper.pdf)_ - Andrei Movsesian and Daniil Timchenko
   - _[Comparing Dependency Distances of Esperanto and Other Languages in a Multi-Lingual Parallel Corpus](papers/13_Paper.pdf)_ - Masanori Oya
 
   
