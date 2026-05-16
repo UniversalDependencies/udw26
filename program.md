@@ -121,9 +121,6 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
 - [Cross-Dialectal Transfer for Low-Resource Arabic: The Tunisian Arabic Dependency Treebank](papers/40_Paper.pdf)  
   Amal Aissaoui
 
-- [From Treebank Metadata to Sentence-Level Genre in Universal Dependencies: A Reproducible, Versioned Resource](papers/41_Paper.pdf)  
-  Egon Stemle
-
 - [Towards Universal Dependencies for L2 Learners of Modern Greek: Annotation and Challenges](papers/14_Paper.pdf)  
   Christina Klironomou, Thelka Pasparaki, Arianna Masciolini, Alexandros Tantos, Despoina Ourania Touriki, Konstantinos Tsiotskas and Eleni Tsourilla
 
@@ -147,6 +144,8 @@ Saturday, 16 May 2026  · Room **EIVISSA 2** for talks and **MENORCA Hall** for 
   - _[Extending Retag to Conversion Error Detection: A Case Study on SynTagRus Morphology](papers/21_Paper.pdf)_ - Andrei Movsesian and Daniil Timchenko
   - _[Comparing Dependency Distances of Esperanto and Other Languages in a Multi-Lingual Parallel Corpus](papers/13_Paper.pdf)_ - Masanori Oya
   - _[Word segmentation for UD: a comparison of isiZulu and Sepedi](papers/24_Paper.pdf)_ - Laurette Marais and Laurette Pretorius
+- _[From Treebank Metadata to Sentence-Level Genre in Universal Dependencies: A Reproducible, Versioned Resource](papers/41_Paper.pdf)_ - Egon Stemle
+
 
   
 - 17:40–18:00 — **Community discussion and closing**  
